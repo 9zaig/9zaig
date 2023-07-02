@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img src="https://img.shields.io/badge/dday323@hanyang.ac.kr-EA4335?style=flat-square&logo=Gmail&logoColor=white"/> <br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/><br>
+![GitHub followers](https://img.shields.io/github/followers/:9zaig)
+
+
+
